@@ -10,9 +10,10 @@ body {
 
         height: 100vh;
         background-color:rgba(157, 17, 238, 0.7); 
-        background-image: url("../imagem/purple.png");
+        background-image: url("../imagem/vibe2.jpg");
+        background-size:cover;
        
-        background-position: 50%;
+        background-position: 60%;
         background-repeat: no-repeat;
         display: flex;
         align-items:center;
